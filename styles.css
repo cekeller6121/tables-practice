@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table, td {
+  border: 1px Solid Black;
+}
+
+.table {
+  width: 100%;
+}
+
+#myTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tableButton {
+  border-radius: 2.5px;
+}
+
+.tableButton:hover {
+  background-color: DodgerBlue;
+}
